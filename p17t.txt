@@ -1,0 +1,10 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:11:38
+
+
+page 017 : float  : J = 63, J * 0.30103 = 18.964891
+page 017 : double : J = 63, J * 0.30103 = 18.964890

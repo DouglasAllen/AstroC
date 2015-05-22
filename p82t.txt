@@ -1,0 +1,15 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:44:43
+
+
+page 082 : b   = 6356755.288
+page 082 : b/a = 0.99664719
+page 082 : 1-f = 0.99664719
+page 082 : e   = 0.08181922
+page 082 : ex. 11.a phi          = 33.356111
+page 082 :          RhoSinPhiTwo =  0.546860
+page 082 :          RhoCosPhiTwo =  0.836339

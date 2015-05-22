@@ -1,0 +1,19 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:34:25
+
+
+page 019 : floor(100 * (4.34 - floor(4.34))) = 33.000
+
+page 019 : 2 + 0.2 + 0.2 + 0.2 + 0.2 + 0.2 - 3 = 8.881784e-16
+
+page 019 : 0.2 + 0.2 + 0.2 + 0.2 + 0.2 + 2 - 3 = 0.000000e+00
+
+page 019 : 2 + (5 * 0.2) - 3  = 0.000000e+00
+
+page 019 : C = 0.000000e+00
+
+page 019 : U = 99.99999999999859312538

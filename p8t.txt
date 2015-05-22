@@ -1,0 +1,9 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:02:10
+
+
+page 008 : 9h14m55.8s     = 138.732500 degrees, tan(alpha) = -0.877517

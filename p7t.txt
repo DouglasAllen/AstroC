@@ -1,0 +1,10 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 22:59:15
+
+
+page 007 : sine(36000030) = 0.500000
+page 007 : 23d26m49s      = 23.446944 degrees

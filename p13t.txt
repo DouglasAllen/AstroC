@@ -1,0 +1,16 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:07:58
+
+
+page 013 : before swap : X = 3.14159265358979311600, Y = 2.71828182845904509080
+page 013 : after  swap : Y = 3.14159265358979267191, X = 2.71828182845904509080
+
+page 013 : before swap : X = 3.14159265358979311600, Y = 2.71828182845904509080
+page 013 : after  swap : Y = 3.14159265358979311600, X = 2.71828182845904509080
+
+page 013 : before swap : X = 0123456789abcd, Y = ABCDEFGHIJKLMN
+page 013 : after  swap : Y = 0123456789abcd, X = ABCDEFGHIJKLMN

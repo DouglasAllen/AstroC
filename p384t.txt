@@ -1,0 +1,25 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:47:40
+
+
+*pdoResult =  2449129.0860
+A1         =      290.9625
+E          =        1.0002
+F          =      165.7296
+F1         =      165.7550
+JDE        =  2449128.5894
+JDEcorr    =        0.4966
+k          =      -82.0000
+M          =      135.9142
+M_         =      244.5757
+O          =      253.0026
+P          =        0.1724
+Q          =        0.0000
+T0         =       -0.0663
+T1         =       -0.0662
+
+page 384 : ex. 54.a result = 2449129.08598

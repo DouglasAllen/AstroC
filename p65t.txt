@@ -1,0 +1,10 @@
+
+AstronomicalAlgorithms.c, by Christophe DAVID, compiled May 21 2015
+christophe.david@christophedavid.org
+http://www.christophedavid.org/
+
+Current local time : Thursday May 21, 2015 - 23:42:58
+
+
+page 065 : shDOW = 3
+page 065 : ex. 7.g = 113
