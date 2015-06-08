@@ -126,10 +126,10 @@ ShGreenwichMeanSideralTime(double *pdoGreenwichSideralTime, short shY,
       else if (shMode == 2)
          {
          *pdoGreenwichSideralTime =
-              (   (double)   100.46061837
+              (   (double)   100.460618375
                + ((double) 36000.770053608 * doT)
                + ((double)     0.000387933 * doT * doT)
-               - ((doT * doT * doT) / (double) 38710000)
+               - ((doT * doT * doT) / (double) 38709677.4194)
               );
 
           /* add H m S to InputJulianDate, see page 88 */
